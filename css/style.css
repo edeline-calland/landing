@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Raleway:wght@100;200;300;400;500;600;700;900&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/menu.css");
+@import url("components/menu.css");
+@import url("components/rectangle-blue.css");
+
+/* RESET CSS */
+html, body, div, span, object, iframe, input, select, textarea, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, 
+address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, a, b, i, dl, dt, dd, 
+ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, 
+figure, footer, header, hgroup, menu, nav, section, menu, time, mark, audio, video, main { margin:0; padding:0; outline:0; border:0; }
+
+h1,h2,h3 {
+	font-family: Raleway, sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+	font-family: Lora, serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+	font-family: Raleway, sans-serif;
+	color: #A5BECC;
+}
+
+a:hover {
+	color: #243A73;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+}
+
+#footer {
+	text-align: center;
+}
+
+#footer h2 {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}

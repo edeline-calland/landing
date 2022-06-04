@@ -1,0 +1,12 @@
+#menu {
+	width:  100%;
+	margin:  0 auto;
+	padding: 0px;
+	text-align: center;
+}
+
+#menu li {
+	margin: 0px;
+	float: right;
+	width: 150px ;
+}
